@@ -1,5 +1,5 @@
 #include <Arduino.h>
-#include "pin_config.h"
+#include "pin_configs.h"
 
 void setup() {
   // put your setup code here, to run once:
