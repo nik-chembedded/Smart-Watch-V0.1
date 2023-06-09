@@ -7,6 +7,7 @@
 * | Date        :   2023-06-09
 ******************************************************************************/
 #include <stdint.h>
+#include <stdlib.h>
 #include <stdio.h>
 #include <SPI.h>
 #include <avr/pgmspace.h>
